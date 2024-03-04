@@ -1,0 +1,56 @@
+function main() {
+    // declaração de variáveis e operação básica com escrita no terminal result é 15
+
+    int x = 5;
+    int y = 10;
+    int result = x + y;
+    write result;
+
+
+
+    // estrutura de loop para realizar operação básica
+
+    for (int i = 0;i < 5; int i = (i + 1)) {
+          int x = 10;
+          write x + i;
+    }
+
+
+
+
+    // declaração de alguns dos outros tipos suportados 
+
+    float x = 2.5;
+    int y = 3;
+    string str = "ola";
+
+
+
+
+    // verificação de condição y é igual a 2
+
+    if(y == 2) then {
+        write "verdadeiro, y é 2";
+    } else {
+        write "falso, y não é igual 2";
+    }
+
+
+
+
+    // verificação de tipo, aceita apenas "int" pois 'a' é um int
+
+    write "| Vamos verificar o tipo!"; 
+    write "digite algo: ";
+    int read a;
+    
+
+
+
+    // precedência 100 * 2 = 200 + y --> 202
+
+    int res = y + 100 * 2;
+    write res;
+
+    return 0;
+};
