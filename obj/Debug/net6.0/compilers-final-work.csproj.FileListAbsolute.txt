@@ -1,0 +1,17 @@
+C:\Users\melis\Documents\GitHub\compilers-final-work\bin\Debug\net6.0\compilers-final-work.exe
+C:\Users\melis\Documents\GitHub\compilers-final-work\bin\Debug\net6.0\compilers-final-work.deps.json
+C:\Users\melis\Documents\GitHub\compilers-final-work\bin\Debug\net6.0\compilers-final-work.runtimeconfig.json
+C:\Users\melis\Documents\GitHub\compilers-final-work\bin\Debug\net6.0\compilers-final-work.dll
+C:\Users\melis\Documents\GitHub\compilers-final-work\bin\Debug\net6.0\compilers-final-work.pdb
+C:\Users\melis\Documents\GitHub\compilers-final-work\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.csproj.AssemblyReference.cache
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.AssemblyInfoInputs.cache
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.AssemblyInfo.cs
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.csproj.CoreCompileInputs.cache
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.csproj.CopyComplete
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.dll
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\refint\compilers-final-work.dll
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.pdb
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\compilers-final-work.genruntimeconfig.cache
+C:\Users\melis\Documents\GitHub\compilers-final-work\obj\Debug\net6.0\ref\compilers-final-work.dll

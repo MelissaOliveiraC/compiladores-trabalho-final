@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuZUlqsXvigrXuEigRGzX1sFvd9OMikuME//j+wGgwdJQ0lHmxQGbV7IRaRdErBfYpsSesM1ROvn8LJTH0tfrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melis\\Documents\\UENP\\ATIVIDADES UENP\\3º ano CC\\Compiladores\\compilers-final-work\\compilers-final-work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melis\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
